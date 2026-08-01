@@ -62,7 +62,7 @@ csc /nologo /target:winexe /optimize+ /codepage:65001 /win32icon:glosser.ico /ou
 ## 文件结构
 
 ```
-划词查询.exe       编译好的程序（直接运行）
+Glosser.exe       编译好的程序（直接运行）
 划词查询.cs        全部源码
 build.bat          一键编译脚本
 glosser.ico        程序图标
