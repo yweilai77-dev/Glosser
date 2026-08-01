@@ -1,0 +1,10 @@
+# 个人配置与运行数据：绝不上传（内含 API Key）
+settings.json
+cache.json
+debug.log
+
+# 构建产物（发布请用 GitHub Releases 传 exe）
+*.exe
+
+# 临时预览图
+*_preview.png
